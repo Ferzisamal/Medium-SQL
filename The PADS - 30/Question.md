@@ -1,3 +1,4 @@
+
 # Question 1
 
 Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
@@ -11,4 +12,9 @@ where [occupation_count] is the number of occurrences of an occupation in OCCUPA
     
 # Tables - Occupation
 
-![Tables](https://photos.app.goo.gl/oe98P5mBieXXmYyf9)
+![Tables](https://user-images.githubusercontent.com/36037250/139532713-4767ca83-36d7-4f7d-93a9-73d0cb51bfc9.PNG)
+
+# Sample Output
+![Output](https://user-images.githubusercontent.com/36037250/139532784-25594102-2085-45b2-ad23-f1cd7c64c78c.PNG)
+
+### Question Source : Hackerrank - AvmnuSng
